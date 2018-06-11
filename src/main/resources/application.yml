@@ -1,0 +1,6 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: ctest
+      contact-points: 192.168.1.112
+      port: 9042
